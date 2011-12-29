@@ -1,3 +1,6 @@
 [submodule "CoffeeScript"]
         path = CoffeeScript
         url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "KMolendyke"]
+        path = KMolendyke 
+        url = https://github.com/krismolendyke/Sublime-Text-2-User-Settings.git
